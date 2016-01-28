@@ -1,4 +1,4 @@
-var map;
+    var map;
     var gameTimer;
     var gameSeconds = 0;
     var gameTime = 60;
@@ -70,8 +70,8 @@ var map;
       gameSeconds = 0;
       var area = document.getElementById("area").value;
       if (area=="usa") map.setCenter(new GLatLng(39.707187,-98.613281), 5);
-      else if (area=="world") map.setCenter(new GLatLng(22.917923,16.523438), 2);
-      else if (area=="europe") map.setCenter(new GLatLng(46.437857,9.887695), 5);
+      else if (area=="svijet") map.setCenter(new GLatLng(22.917923,16.523438), 2);
+      else if (area=="europa") map.setCenter(new GLatLng(46.437857,9.887695), 5);
 
       gameBounds = map.getBounds();
       currentDistance = 0;

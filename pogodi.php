@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header.php';?>
    
     <script src="http://maps.google.com/maps?file=api&amp;v=2.133d&amp;key=ABQIAAAAjU0EJWnWPMv7oQ-jjS7dYxSPW5CJgpdgO_s4yyMovOaVh_KvvhSfpvagV18eOyDWu7VytS6Bi1CWxw"
       type="text/javascript"></script>
@@ -21,9 +21,10 @@
             
             <div class="image-container col-md-3 col-sm-12">
                 <div class="mask">
+                    <img alt="" src="assets/img/portfolio_featured.png" style="width:100%; height:100%;">
                 </div>
                 <div class="main-heading">
-                    <h1>Pogodi lokaciju</h1>
+                    <h1>Pogodi</h1>
                 </div>
             </div>
             
@@ -41,8 +42,8 @@
                                  <td>
                                    <select id="area">
                                     <option value="usa">USA</option>
-                                    <option value="world">Svijet</option>
-                                    <option value="europe">Europa</option>
+                                    <option value="svijet">Svijet</option>
+                                    <option value="europa">Europa</option>
                                    </select>
                                  </td>
                                  <td style="border-bottom: 1px solid grey">Kazneni Bodovi</td>

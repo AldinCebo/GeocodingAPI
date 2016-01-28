@@ -143,7 +143,7 @@ $(document).ready(function () {
             });
         }, 100);
     });
-
+    
     $('.menu div.portfolio-btn').on('click', function () {
         $('.portfolio-page').fadeIn(1200);
         setTimeout(function(){

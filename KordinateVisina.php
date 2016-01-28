@@ -14,15 +14,15 @@
     <!--
     5 ) visina Page
     -->
-   
         <div class="row">
             <!--( a ) Profile Page Fixed Image Portion -->
             
             <div class="image-container col-md-3 col-sm-12">
                 <div class="mask">
+                <img alt="" src="assets/img/contact_featured.png" style="width:100%; height:100%;">
                 </div>
                 <div class="main-heading">
-                    <h1>Kordinate i visina</h1>
+                    <h1>Kordinate</h1>
                 </div>
             </div>
             

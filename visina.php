@@ -25,6 +25,7 @@
             
             <div class="image-container col-md-3 col-sm-12">
                 <div class="mask">
+                    <img alt="" src="assets/img/about_us_featured.png" style="width:100%; height:100%;">
                 </div>
                 <div class="main-heading">
                     <h1>Pogodi visinu</h1>

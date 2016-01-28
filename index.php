@@ -36,7 +36,7 @@
                     </div>
                     <div class="heading">
                     <a href="http://localhost/GeocodingAPI/visina.php">
-                        <i class="ion-ios-people-outline hidden-xs"></i>
+                        <i class="ion-android-image hidden-xs"></i>
                         <h2>Pogodi visinu</h2>
                     </a>
                     </div>
@@ -51,7 +51,7 @@
                     </div>
                     <div class="heading">
                     <a href="http://localhost/GeocodingAPI/pogodi.php">
-                        <i class="ion-ios-briefcase-outline hidden-xs"></i>
+                        <i class="ion-android-pin hidden-xs"></i>
                         <h2>Pronadi Lokaciju</h2>
                     </a>
                     </div>
@@ -65,7 +65,7 @@
                 </div>
                 <div class="heading">
                 <a href="http://localhost/GeocodingAPI/poligon.php">
-                    <i class="ion-ios-lightbulb-outline hidden-xs"></i>
+                    <i class="ion-android-locate hidden-xs"></i>
                     <h2>Poligon</h2>
                 </a>
                 </div>
@@ -79,7 +79,7 @@
                     </div>
                     <div class="heading">
                     <a href="http://localhost/GeocodingAPI/KordinateVisina.php">
-                        <i class="ion-ios-briefcase-outline hidden-xs"></i>
+                        <i class="ion-android-compass hidden-xs"></i>
                         <h2>Kordinate i visina</h2>
                     </a>
                     </div>

@@ -33,7 +33,7 @@
 </head>
 
 
-<body onload="initialize()" onunload="GUnload()">
+<body onload="initialize()">
     
     <!-- Preloader -->
     <div id="preloader">

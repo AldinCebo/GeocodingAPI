@@ -2,7 +2,7 @@
     <style>
         a:link {text-decoration: none;}
         a:visited {text-decoration: none;}
-        a:hover {text-decoration: none;}
+        a:hover {text-decoration: none; }
         a:active {text-decoration: none;}
     </style>
     <!-- home-page -->
@@ -27,56 +27,62 @@
         </div>
         
         <!-- Navigation Menu -->
-        
         <div class="menu">
-            <div class="profile-btn">
+
+
+            <div class="profile">
                 <img alt="" src="assets/img/about.jpg" style="width:100%; height:100%;">
-                <a href="http://localhost/geocoding/visina.php">
                     <div class="mask">
                     </div>
                     <div class="heading">
+                    <a href="http://localhost/GeocodingAPI/visina.php">
                         <i class="ion-ios-people-outline hidden-xs"></i>
                         <h2>Pogodi visinu</h2>
-                        </div>
-                </a>
+                    </a>
+                    </div>
+                        
             </div>
             
             <!-- Single Navigation Menu Button -->
             
-            <div class="portfolio-btn">
+            <div class="portfolio">
                 <img alt="" src="assets/img/portfolio.jpg">
-                <a href="http://localhost/geocoding/pogodi.php">
                     <div class="mask">
                     </div>
                     <div class="heading">
+                    <a href="http://localhost/GeocodingAPI/pogodi.php">
                         <i class="ion-ios-briefcase-outline hidden-xs"></i>
                         <h2>Pronadi Lokaciju</h2>
+                    </a>
                     </div>
-                </a>
             </div>
             
             <!-- Single Navigation Menu Button [ END ]  -->
             
-            <div class="service-btn">
+            <div class="service">
                 <img alt="" src="assets/img/service.jpg">
                 <div class="mask">
                 </div>
                 <div class="heading">
+                <a href="http://localhost/GeocodingAPI/poligon.php">
                     <i class="ion-ios-lightbulb-outline hidden-xs"></i>
-                    <h2>Services</h2>
+                    <h2>Poligon</h2>
+                </a>
                 </div>
             </div>
             
             <!-- Single Navigation Menu Button [ END ]  -->
             
-            <div class="contact-btn">
+            <div class="portfolio">
                 <img alt="" src="assets/img/contact.jpg">
-                <div class="mask">
-                </div>
-                <div class="heading">
-                    <i class="ion-ios-chatboxes-outline hidden-xs"></i>
-                    <h2>Contact</h2>
-                </div>
+                    <div class="mask">
+                    </div>
+                    <div class="heading">
+                    <a href="http://localhost/GeocodingAPI/KordinateVisina.php">
+                        <i class="ion-ios-briefcase-outline hidden-xs"></i>
+                        <h2>Kordinate i visina</h2>
+                    </a>
+                    </div>
             </div>
             
             <!-- Single Navigation Menu Button [ END ]  -->

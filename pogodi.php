@@ -10,7 +10,7 @@
     4 ) Close Button
     -->
     
-    <a href="http://localhost/geocoding/index.php"><div class="close-btn"></div></a>
+    <a href="http://localhost/GeocodingAPI/index.php"><div class="close-btn"></div></a>
 
     <!--
     5 ) visina Page
@@ -45,7 +45,7 @@
                                     <option value="europe">Europa</option>
                                    </select>
                                  </td>
-                                 <td style="border-bottom: 1px solid grey">Bodovi</td>
+                                 <td style="border-bottom: 1px solid grey">Kazneni Bodovi</td>
                                  <td style="border-bottom: 1px solid grey">Vrijeme</td>
                                  </td>
                                  <td style="border-bottom: 1px solid grey">Lokacija</td>
